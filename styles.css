@@ -1,0 +1,29 @@
+body.home {
+    background-color: darkolivegreen;
+    text-align: center;
+}
+
+input {
+    height: 80px;
+    font-size: 40px;
+    background-color: rgba(171, 143, 29, 0.607);
+}
+
+h1.home {
+    font-size: 50px;
+}
+
+body {
+    background-color: burlywood;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
